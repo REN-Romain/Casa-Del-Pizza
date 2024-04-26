@@ -1,4 +1,4 @@
-#Casa Del Pizza 🍕
+# Casa Del Pizza 🍕
 
 Une pizzeria en ligne au style épuré simple d'utilisation que ce soit pour les potentiels clients ou les gérants du site.
 
